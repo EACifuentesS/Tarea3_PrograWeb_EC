@@ -45,7 +45,7 @@ $resultMaestros = mysqli_query($conn, $queryMaestros);
                         <th>Carnet</th>
                         <th>Nombre</th>
                         <th>Zona (60 puntos)</th>
-                        <th>Examen (30 puntos)</th>
+                        <th>Examen (40 puntos)</th>
                     </tr>
                 </thead>
                 <tbody>
